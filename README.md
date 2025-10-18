@@ -62,9 +62,9 @@ FileConverter/
 ### 🧩 Étapes simples
 
 1️⃣ **Télécharge** le fichier ZIP du logiciel :
-👉 [📦 Télécharger “logiciel.zip”](./logiciel.zip)
+👉 [📦 Télécharger “logiciel.rar”](./logiciel.rar)
 
-2️⃣ **Décompresse** le fichier ZIP où tu veux (ex. sur ton Bureau).
+2️⃣ **Décompresse** le fichier RAR où tu veux (ex. sur ton Bureau).
 
 3️⃣ **Ouvre le dossier extrait**, puis lance simplement le fichier :
 
