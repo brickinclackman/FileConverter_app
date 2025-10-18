@@ -57,38 +57,41 @@ FileConverter/
 
 ---
 
-## 🚀 Installation & Compilation
+## 🚀 Installation & Lancement
 
-### 1️⃣ Prérequis
-- **Qt Creator** (Qt 5.x ou Qt 6.x)
-- **FFmpeg** installé et accessible depuis le terminal
+### 🧩 Étapes simples
 
-### 2️⃣ Vérifier FFmpeg
+1️⃣ **Télécharge** le fichier ZIP du logiciel :
+👉 [📦 Télécharger “logiciel.zip”](./logiciel.zip)
+
+2️⃣ **Décompresse** le fichier ZIP où tu veux (ex. sur ton Bureau).
+
+3️⃣ **Ouvre le dossier extrait**, puis lance simplement le fichier :
+
 ```bash
-ffmpeg -version
-````
+App_v_XX.exe
+```
 
-Si la commande n’est pas reconnue :
+> 💡 *(Remplace “XX” par le numéro de version indiqué — par exemple `App_v_1.0.exe`.)*
 
-* **Windows :** Télécharge sur [ffmpeg.org](https://ffmpeg.org/download.html)
-* **Linux / Raspberry Pi :**
-
-  ```bash
-  sudo apt install ffmpeg
-  ```
-* **macOS :**
-
-  ```bash
-  brew install ffmpeg
-  ```
-
-### 3️⃣ Compiler le projet
-
-1. Ouvre `FileConverter.pro` avec **Qt Creator**
-2. Clique sur ▶️ **Exécuter** (ou `Ctrl + R`)
-3. Profite de ton interface Qt 🎉
+4️⃣ Le logiciel se lance directement sans installation supplémentaire. 🎉
 
 ---
+
+### ⚙️ Prérequis
+
+* **Windows 10 / 11**
+* **FFmpeg** doit être présent sur ton système
+  (ou inclus dans le même dossier que l’exécutable)
+
+Pour vérifier :
+
+```bash
+ffmpeg -version
+```
+
+Si FFmpeg n’est pas installé, télécharge-le depuis [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
+ou copie simplement les fichiers `ffmpeg.exe`, `ffplay.exe`, et `ffprobe.exe` dans le même dossier que ton `App_v_XX.exe`.
 
 ## 🧩 Utilisation
 
