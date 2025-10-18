@@ -134,9 +134,9 @@ ou copie simplement les fichiers `ffmpeg.exe`, `ffplay.exe`, et `ffprobe.exe` da
 ## 🧑‍💻 Auteur
 
 **👋 Brickin Clackman**
-Étudiant en **Cybersécurité, Informatique, Réseaux et Électronique**
+Diplômé en **Cybersécurité, Informatique, Réseaux et Électronique**
 Créateur passionné de logiciels, vidéos et projets créatifs 🧱💡
-📸 [Chaîne YouTube – Brickin Gaming](https://www.youtube.com/@brickingaming)
+📸 [Chaîne YouTube – Brickin Clackman](https://www.youtube.com/@brickinclackman)
 
 ---
 
